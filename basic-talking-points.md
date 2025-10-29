@@ -6,7 +6,7 @@ Spotting suspicious
 * requests
 * prompts
 
-### Awareness of pretexting and tailgating.
+> **Awareness of pretexting and tailgating.**
 ---
 
 # Password & Authentication Practices
@@ -15,7 +15,7 @@ Spotting suspicious
 * MFA familiarity
 * Credential storage
 
-### Attitudes toward password managers.
+> **Attitudes toward password managers.**
 ---
 
 # Device & Data Handling
@@ -24,7 +24,7 @@ Spotting suspicious
 * removable media
 * cloud storage
 
-### Sensitivity to data classification.
+> **Sensitivity to data classification.**
 ---
 
 # Network & Remote Work Security
@@ -33,11 +33,11 @@ Spotting suspicious
 * VPN use
 * public hotspot risks
 
-### Recognizing insecure remote access.
+> **Recognizing insecure remote access.**
 ---
 # Incident Reporting
 
 * Who, What, When, Where, Why, and How
 * Report and escalate suspicious activity
 
-### Comfort level in reporting near-misses.
+> **Comfort level in reporting near-misses.**
