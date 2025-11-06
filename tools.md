@@ -8,6 +8,10 @@ Check if your email addresses or accounts have been compromised in known data br
 **[Weakpass](https://weakpass.com/)**  
 Access comprehensive wordlists and check password strength against known compromised passwords. This resource provides extensive password dictionaries used in actual breaches, helping identify weak or commonly-used passwords that should be avoided.
 
+## Passphrase Generation
+**[Diceware Passphrase Generator](https://diceware.dmuth.org/)**  
+Generate high-entropy passphrases using the Diceware method. This tool selects words from a cryptographically sound list to create strong, memorable passphrases suitable for authentication and encryption keys.
+
 ## File Security Analysis
 **[VirusTotal](https://www.virustotal.com/)**  
 Scan files, URLs, and IP addresses for malicious content. This service aggregates results from over 70 antivirus scanners and security tools to provide comprehensive threat detection before opening suspicious files or downloads.
