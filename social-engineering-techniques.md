@@ -2,7 +2,7 @@
 
 Social engineering is the use of deception, manipulation, or psychological pressure to convince people to bypass normal security controls. Unlike technical attacks, social engineering targets human behavior: trust, urgency, helpfulness, and authority.
 
-In an automotive marketing environment, attackers are often attempting to gain:
+Attackers are often attempting to gain:
 - Login credentials (email, CRM, ad platforms, dealer portals)
 - Access to internal files or shared drives
 - Payment changes or invoice approvals
