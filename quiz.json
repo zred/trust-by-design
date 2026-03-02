@@ -1,0 +1,136 @@
+{
+  "cards": [
+    {
+      "type": "multiple_choice",
+      "question": "Social engineering primarily targets:",
+      "choices": [
+        "Firewalls",
+        "Software vulnerabilities",
+        "Human behavior",
+        "Encryption systems"
+      ],
+      "correct_index": 2,
+      "hint": "It exploits trust, urgency, authority, and routine behavior.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which scenario is highest risk in our environment?",
+      "choices": [
+        "A delayed internal meeting reminder",
+        "A vendor requests updated wire/ACH details mid-thread",
+        "A routine HR announcement",
+        "A calendar invite from a coworker"
+      ],
+      "correct_index": 1,
+      "hint": "Payment instruction changes are a common fraud pattern and require extra verification.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Under safe harbor expectations, we must protect:",
+      "choices": [
+        "Only our internal company data",
+        "Client DMS data in our custody",
+        "Only financial records",
+        "Only data explicitly labeled confidential"
+      ],
+      "correct_index": 1,
+      "hint": "We are custodians of client data we access for our work.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "RICE: “You’re the only one I trust with this” is mainly an example of:",
+      "choices": [
+        "Reward",
+        "Intimidation",
+        "Convenience",
+        "Ego"
+      ],
+      "correct_index": 3,
+      "hint": "Flattery and isolation are common manipulation techniques.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "RICE: “Your account will be suspended in 30 minutes” is mainly:",
+      "choices": [
+        "Reward",
+        "Intimidation",
+        "Convenience",
+        "Ego"
+      ],
+      "correct_index": 1,
+      "hint": "Threats and consequences create fear and urgency.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A vendor asks to change payment instructions. What should you do first?",
+      "choices": [
+        "Update the payment details immediately",
+        "Reply in the same email thread to confirm",
+        "Verify via a second communication channel",
+        "Ignore the request"
+      ],
+      "correct_index": 2,
+      "hint": "Use known contact info (phone number on file / vendor portal), not the email thread.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "You find a USB drive in the parking lot. The safest action is to:",
+      "choices": [
+        "Plug it in to identify the owner",
+        "Open it on a non-work computer",
+        "Give it to IT/facilities without plugging it in",
+        "Scan it with antivirus first, then open it"
+      ],
+      "correct_index": 2,
+      "hint": "Unknown devices can deliver malware; treat them as unsafe by default.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "You accidentally clicked a suspicious link. What is the best next step?",
+      "choices": [
+        "Delete the message and move on",
+        "Wait to see if anything happens",
+        "Report it immediately through the company process",
+        "Forward it to coworkers to warn them"
+      ],
+      "correct_index": 2,
+      "hint": "Speed of reporting reduces impact; don’t self-investigate by clicking more.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A known vendor urgently requests a large DMS export. What is the correct response?",
+      "choices": [
+        "Send it immediately to avoid delays",
+        "Ask them to email you their request again",
+        "Pause, verify approval and need via approved channels, then escalate if unsure",
+        "Send a smaller sample first"
+      ],
+      "correct_index": 2,
+      "hint": "Large exports are high sensitivity; confirm authorization and safe handling.",
+      "graph": null
+    },
+    {
+      "type": "multiple_choice",
+      "question": "An executive messages you to buy gift cards right now for a confidential matter. What should you do?",
+      "choices": [
+        "Buy the cards immediately and send the codes",
+        "Verify via a known channel and escalate if suspicious",
+        "Reply asking for more details in chat",
+        "Ask a coworker to handle it"
+      ],
+      "correct_index": 1,
+      "hint": "This is a common scam pattern. Verification is expected even for leadership requests.",
+      "graph": null
+    }
+  ],
+  "nextQuizTitle": "Security Awareness Quiz – Refresher",
+  "requestedCardCount": 10
+}
