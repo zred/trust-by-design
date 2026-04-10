@@ -136,12 +136,13 @@ Attackers trigger emotion to reduce critical thinking.
 - Flattery
 - Isolation (“Only you can handle this”)
 
-Pause Signal:
+## Pause Signal:
 If you feel:
 - Urgency
 - Fear
 - Excitement
 - Pressure
+
 Stop and verify.
 
 ---
