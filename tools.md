@@ -23,3 +23,7 @@ Verify the safety and reputation of websites before visiting them. This tool che
 ## Data Analysis and Decoding
 **[CyberChef](https://gchq.github.io/CyberChef/)**  
 A powerful web-based tool for encryption, encoding, compression, and data analysis. Often called "the Cyber Swiss Army Knife," it allows you to decode, analyze, and manipulate data through a visual recipe-based interface—useful for investigating suspicious content or understanding encoded data.
+
+## Marketplace Seller Verification
+**[Fakespot](https://www.fakespot.com/)**  
+Analyzes product listings and seller profiles on major retail platforms for indicators of fake reviews, unusual patterns, or seller risk. Useful when evaluating unfamiliar marketplace sellers for hardware procurement.
